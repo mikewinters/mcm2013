@@ -65,7 +65,7 @@ a:hover {
 /* Header */
 
 #header {
-	width: 900px;
+	width: 950px;
 	height: 150px;
 	margin: 0 auto;
 	padding: 0px 50px;
@@ -167,7 +167,7 @@ a:hover {
 
 #menu {
 	float: right;
-	width: 500px;
+	width: 550px;
 	height: 90px;
 	margin: 0 auto;
 	padding: 0;
@@ -188,7 +188,7 @@ a:hover {
 #menu a {
 	display: block;
 	margin-right: 1px;
-	padding: 10px 10px 15px 15px;
+	padding: 10px 10px 15px 10px;
 	background: url(images/img06.gif) no-repeat left 12px;
 	text-decoration: none;
 	text-align: center;
