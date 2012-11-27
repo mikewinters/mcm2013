@@ -366,7 +366,8 @@ a:hover {
 
 #sidebar a {
 	border: none;
-	color: #494949;
+    color: #B3734D
+	/*color: #494949;*/
 }
 
 #sidebar a:hover {
