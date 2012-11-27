@@ -9,7 +9,7 @@
         <div id="column2">
             <h2>New music</h2>
             <p>MCM 2013 will take place in conjunction
-            with a special concert produced by the <a href="http://www.cirmmt.mcgill.ca/activities/live-cirmmt">live@CIRMMT</a> concert series.  Other concerts of interest can be found on the <a href="http://www.mcgill.ca/music/events">McGill</a> and <a href="http://www.calendrier.umontreal.ca/musique/UdeM">UdeM</a> concert calenders. </p>
+            with a special concert produced by the <a href="http://www.cirmmt.mcgill.ca/activities/live-cirmmt">live@CIRMMT</a> concert series.  Other concerts of interest can be found on the <a href="http://www.mcgill.ca/music/events">McGill</a> and <a href="http://www.calendrier.umontreal.ca/musique/">UdeM</a> concert calenders. </p>
         </div>
         <div id="column3">
             <h2>Montreal</h2>
@@ -23,5 +23,5 @@
 </div>
 
 <div id="footer">
-<p>Copyright (c) 2013 MCM 2013 All rights reserved. Design by <a href="http://www.freecsstemplates.org">FCT</a>.</p>
+<p>Copyright (c) 2013 MCM 2013 All rights reserved. Webmaster: <a href="http://www.idmil.org/people/r._michael_winters">RMW</a> Design by <a href="http://www.freecsstemplates.org">FCT</a>.</p>
 </div>

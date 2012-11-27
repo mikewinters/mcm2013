@@ -46,10 +46,10 @@ Released   : 20110412
                     Music Media and Technology.</p>
 					<!--<p class="links"><a href="#" class="more">Read More</a><a href="#" title="b0x" class="comments">Comments</a></p> -->
                </div>
-            <img src="images/oldMontreal.jpg" height="200px" width="280x" alt="" />
-            <img src="images/mtRoyalFromPlateau.jpg" height="200px" width="280x"alt="" />
-            <img src="images/newmusicbuilding.jpg" height="200px" width="150px"alt="" />
-            <img src="images/montrealfrommtroyal.jpg" height="200px" width="425x" alt="" />
+            <img src="images/oldMontreal.jpg" title="Old Montreal" height="200px" width="295x" alt="" />
+            <img src="images/mtRoyalFromPlateau.jpg" title="Mont Royal viewed from the Plateau" height="200px" width="280x"alt="" />
+            <img src="images/newmusicbuilding.jpg" title="The New Music Building" height="200px" width="150px"alt="" />
+            <img src="images/montrealfrommtroyal.jpg" title="A nightime glimse of downtown from the top of Mont Royal" height="200px" width="425x" alt="" />
             <br><br>
             </div>
             

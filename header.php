@@ -16,4 +16,4 @@
 </div>
 
 <!-- Banner here -->
-<div id="splash"><a href="index.php"><img src="../newMcmLogo.png" width="960" height="301" alt="" /></a></div>
+<div id="splash"><a href="index.php"><img src="images/newMcmLogo.png" width="960" height="301" alt="" /></a></div>

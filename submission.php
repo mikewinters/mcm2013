@@ -33,11 +33,12 @@ Released   : 20110412
 					<p>The organisers
                     of MCM 2013 encourage submissions of unpublished papers that use
                     mathematical and/or computational approaches to address any aspect of
-                    music theory, music analysis, or composition, by researchers or team of researchers in any related field. </p>
+                    music theory, music analysis, composition, or performance, by researchers or 
+		    teams of researchers from any relevant field. <br /></p>
 					<p>Contributions may be in the form of
                     individual papers (20 mins, with 10 additional minutes reserved for
                     questions and discussion), panels and joint sessions, workshops and
-                    tutorials, or posters. Proposals are due on January 14 2013, and may be
+                    tutorials, or posters. Proposals are due on January 15 2013, and may be
                     submitted as PDF files at <a
                         href="http://senldogo0039.springer-sbm.com/ocs/home/MCM2013">this page</a>
                     on the conference service site. <br /><br /></p>

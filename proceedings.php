@@ -27,10 +27,18 @@ Released   : 20110412
         <!-- Content of page filled out here -->
         <div id="content">
 			<div class="post">
-                <h2 class="title"><a href="#">Umm...</a></h2>
+                <h2 class="title">Proceedings of the <a href="http://www.smcm-net.info/" title="Society for Mathematics and Computation in Music">SMCM</a></h2>
 				<div style="clear: both;">&nbsp;</div>
 				<div class="entry">
-                    <p> This is embarassing... no content yet.  Come back later :) </p>
+                    <p>Accepted papers will be published by Springer in an edited volume in the series <a href="www.springer.com/lncs"><i>Lecture Notes in Computer Science</i></a> as were the procceedings of the 2011 conference.</p>
+                    <ul>
+                    <li><a href="http://www.springer.com/computer/information+systems+and+applications/book/978-3-642-21589-6" target=_blank>MCM 2011</a>, IRCAM, Paris, France, June 15-17, 2011</li>
+                    <li><a href="http://www.springer.com/computer/information+systems+and+applications/book/978-3-642-02393-4" target="_blank">MCM 2009</a>, Yale University, New Haven, Connecticut, USA, June 19-22, 2009</li>
+                    <li><a href="http://www.springer.com/computer/information+systems+and+applications/book/978-3-642-04578-3" target="_blank">MCM 2007</a>, National Institute for Music Research, Berlin, Germany, May 18-20, 2007</li>
+                    </ul>
+                    <p> Proceedings of the 2007 and 2009 conferences were published by Springer in the <a href="http://www.springer.com/series/7899"><i>Communications in Computer and Information Science</i></a> series.</p>
+                    <a href="http://www.smcm-net.info/"><img src="images/logoSMCM.jpg" height="100px" hspace="100px" vspace="40px"></a>
+
 				</div>
 			</div>
             <div style="clear: both;">&nbsp;</div>
